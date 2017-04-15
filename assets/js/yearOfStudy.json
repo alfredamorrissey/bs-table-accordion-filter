@@ -1,0 +1,65 @@
+{
+	"status": "success",
+	"data": [
+		{
+			"label": "Year 1",
+			"value": "1",
+			"items": [ 
+				{
+					"label" : "Fall 2017",
+					"value" : "1"
+				},
+				{
+					"label" : "Fall 2017",
+					"value" : "2"
+				},
+				{
+					"label" : "Spring 2017",
+					"value" : "3"
+				},
+				{
+					"label" : "Fall 2018",
+					"value" : "4"
+				},
+				{
+					"label" : "Fall 2018",
+					"value" : "5"
+				},
+				{
+					"label" : "Spring 2018",
+					"value" : "6"
+				}
+			]
+		},
+		{
+			"label": "Year 2",
+			"value": "2",
+			"items": [ 
+				{
+					"label" : "Fall 2017",
+					"value" : "7"
+				},
+				{
+					"label" : "Fall 2017",
+					"value" : "8"
+				},
+				{
+					"label" : "Spring 2017",
+					"value" : "9"
+				},
+				{
+					"label" : "Fall 2018",
+					"value" : "10"
+				},
+				{
+					"label" : "Fall 2018",
+					"value" : "11"
+				},
+				{
+					"label" : "Spring 2018",
+					"value" : "12"
+				}
+			]
+		}
+	]
+}
